@@ -1,6 +1,6 @@
 # SurfingSoundsGui
 
-Collection of selected audio files from freesound.org to add sound to app interfaces and their interactions
+Collection of selected audio files from [freesound.org](https://freesound.org/) to add sound to app interfaces and their interactions
 
 Buttons, mechanical keyboard, selected, success, fail... 
 
